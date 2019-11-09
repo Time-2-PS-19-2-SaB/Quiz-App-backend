@@ -11,5 +11,8 @@
     "url": "https://github.com/Time-2-PS-19-2-SaB/Quiz-App-backend.git"
   },
   "author": "Time 2 do Processo Seletivo 2019.2 da empresa júnior Seed a Bit",
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
