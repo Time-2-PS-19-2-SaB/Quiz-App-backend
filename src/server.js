@@ -1,5 +1,8 @@
 const express = require("express");
 const app = express();
+const cors = require("cors");
+
+app.use(cors());
 
 // Contém todo o conteúdo de todos os quizzes
 const quizzesContent = require("./quizzesContent");

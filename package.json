@@ -13,6 +13,7 @@
   "author": "Time 2 do Processo Seletivo 2019.2 da empresa júnior Seed a Bit",
   "license": "Unlicense",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   },
   "devDependencies": {
